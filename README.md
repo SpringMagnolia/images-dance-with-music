@@ -1,7 +1,7 @@
 # README
 
 ## 环境安装
-分别执行下面命令安装环境
+分别执行下面命令安装依赖
 
 ```sh
 pip install moviepy
