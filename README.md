@@ -30,8 +30,11 @@ if __name__ == "__main__":
     step_min_size = 50
 ```
 `audio_path` 表示音乐路径
+
 `img_path` 表示图片文件夹
+
 `std_thresh` 使用几倍校准差进行鼓点清理
+
 `step_min_size` 表示鼓点间的最小间隔
 
 #### 2. 无鼓点的音乐(效果不好)
